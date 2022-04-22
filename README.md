@@ -1,13 +1,19 @@
-### Hi there 👋
+<h2 title="myTitle">Hi, I'm Mark! 👋</h2>
 
 <!--
 <a href="https://www.linkedin.com/in/markjager13/">
-  <img alt="Mark's LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+  <img align="left" alt="Mark's LinkedIn" title="LinkedIn" height="28" width="28" src="assets/linkedin.svg">
 </a>
 <a href="https://twitter.com/MarkJager13">
-  <img alt="Mark's Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg">
+  <img align="left" alt="Mark's Twitter" title="Twitter" height="28" width="28" src="assets/twitter.svg">
 </a>
+
 -->
+
+<br />
+<br />
+
+**About Me!**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +23,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+**Languages and Tools:**
+
