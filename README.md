@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 <!--
-**markjager13/markjager13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/markjager13/">
+  <img alt="Mark's LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+</a>
+<a href="https://twitter.com/MarkJager13">
+  <img alt="Mark's Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg">
+</a>
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
