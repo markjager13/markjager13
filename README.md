@@ -13,7 +13,7 @@
 
 **About Me!** 
 <br />
-I'm a front end developer that loves building efficient and intuitive solutions for clients. 
+I'm a junior software developer that loves building efficient and intuitive solutions for clients. 
 <br />
 I'm skilled using JavaSript and React and have a background in computer science concepts. 
 
