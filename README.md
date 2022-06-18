@@ -15,7 +15,7 @@
 <br />
 I'm a junior software developer that loves building efficient and intuitive solutions for clients. 
 <br />
-I'm skilled using JavaSript and React and have a background in computer science concepts. 
+I'm skilled using Spring Boot and React and have a background in computer science concepts. 
 
 
 - 📫 How to reach me: [markjager13@gmail.com](mailto:markjager13@gmail.com)
