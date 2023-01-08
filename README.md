@@ -15,7 +15,7 @@
 <br />
 I'm a curiosity-driven developer with a passion for building efficient and intuitive software applications. 
 <br />
-I'm skilled using JavaScript and Java and have a background in computer science concepts. 
+I'm skilled using JavaScript and React and have a background in computer science concepts. 
 
 
 - 📫 How to reach me: [markjager13@gmail.com](mailto:markjager13@gmail.com)
