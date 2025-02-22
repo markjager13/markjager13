@@ -9,7 +9,7 @@
 
 **About Me!** 
 <br />
-I'm a curiosity-driven developer with a passion for building efficient and intuitive software applications. 
+I'm a curiosity-driven developer with a passion for building efficient and intuitive software. 
 <br />
 
 
